@@ -11,8 +11,8 @@ Update your implementation of the `Employee` class of the [previous project](htt
 ### Implementation
 - Write the default and parameterized constructors.
 - The parameterized constructors take id, name, and role.
-- Create an object of the `Employee` class using declared constructors.
-- Call the `printInfo()` method to print object values.
+- Create two objects of the `Employee` class using declared constructors.
+- Call the `printInfo()` method to print the values of the two objects.
 
 > Use the `Employee` class you implemented in the previous project.
 
