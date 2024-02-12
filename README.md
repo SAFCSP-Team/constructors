@@ -6,11 +6,15 @@ In this project, our main goal is to understand how to use the constructors in C
 
 ### Problem
 
-An updated implementation of the Employee class of the [previous project](https://github.com/SAFCSP-Team/cpp-class-project), including the constructors.
+Update your implementation of the Employee class of the [previous project](https://github.com/SAFCSP-Team/cpp-class-project).
 
 ### Implementation
 - Write the default and parameterized constructors.
-- Create an object of the `Employee` class using constructors and call printInfo() method to print object values
+- The parameterized constructors take id, name, and role.
+- Create an object of the `Employee` class using declared constructors.
+- Call the `printInfo()` method to print object values.
+
+> Use the `Employee` class you implemented in the previous project.
 
   
 ```cpp
